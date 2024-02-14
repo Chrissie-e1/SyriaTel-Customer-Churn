@@ -62,6 +62,10 @@ Best model is selected best on high performance .
 Feature Importance
 Feature importance analysis helps identify which features have the most influence on predicting churn. By knowing which factors contribute the most to churn, the company can prioritize them in its retention strategies and focus resources on addressing those factors effectively.
 
+https://github.com/Chrissie-e1/SyriaTel-Customer-Churn/blob/main/Picture%201.png
+
+
+
 
 
 
