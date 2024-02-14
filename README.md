@@ -117,11 +117,11 @@ In conclusion, based on the model's accuracy and auc scores, Gradient Boosting c
 # Future Work
 Explore advanced machine learning techniques, such as deep learning or ensemble methods, to further improve predictive accuracy and model performance.
 
-# REPOSITORY STRUCTURE
-• Data: Contains the raw CSV dataset ("bigml_59c28831336c6604c800002a.csv") from Syrian Tel Communication used for analysis.
-• Notebooks: Includes Jupyter Notebooks detailing the entire analysis process.
-• README.md: Provides an overview of the project.
-• Presentation: Contains the presentation slides in pdf detailing the project findings.
+# Repository Structure
+- Data: Contains the raw CSV dataset ("bigml_59c28831336c6604c800002a.csv") from Syrian Tel Communication used for analysis.
+- Notebooks: Includes Jupyter Notebooks detailing the entire analysis process.
+- README.md: Provides an overview of the project.
+- Presentation: Contains the presentation slides in pdf detailing the project findings.
 
 
 
