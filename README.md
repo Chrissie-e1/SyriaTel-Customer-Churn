@@ -66,10 +66,15 @@ Feature importance analysis helps identify which features have the most influenc
 
 
 The top five most important features that determine customer churn include:
+
 a.	Customer service charge
+
 b.	Total day minutes 
+
 c.	Total day charge 
+
 d.	Voice mail plan
+
 e.	Area code
 
 ![Graph of Churn against Area Code 2](https://github.com/Chrissie-e1/SyriaTel-Customer-Churn/assets/144713773/b9c1ff64-0c20-4349-8cb8-e3c8280ab104)
