@@ -92,14 +92,18 @@ The best model is gradient boosting classifier with an accuracy score of 0.9100 
 
 # Recommendations 
 a.	Customer Segmentation: Utilize the identified key features, such as total day charge, customer service call, voice mail plan, area code, and total day minutes, to segment customers based on their churn risk levels. 
+
 b.	Tailor retention strategies and marketing campaigns to address the specific needs and behaviors of each segment. For example:
+
 - Giving discounts to area code 415 since it had the highest customer churn rate
 - Increasing marketing campaigns to area code 415 
 - Improve customer service to ensure customers are adequately assisted when they make their first call
 - Include voice mail plan in the standard package 
 - To provide loyalty rewards, bonus minutes, and special discounts to customers with high total day charge 
 - Offer specialized plans that provide discounted rates for calls made during the day
+
 c.	Use Gradient Boosting classifier as the model of choice for forecasting. The Gradient Boosting Classifier has demonstrated strong predictive power, robustness to overfitting in churn prediction. 
+
 d.	Intensive exploratory Data Analysis (EDA): Perform comprehensive exploratory data analysis to uncover hidden patterns and insights in the data. Visualizations and descriptive statistical analyses can help identify relationships between features and the target variable, guiding feature selection and modeling decisions. 
 
 # Conclusion
